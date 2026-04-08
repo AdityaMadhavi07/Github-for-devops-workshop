@@ -1,6 +1,2 @@
-print("this is a new code in dev branch")
-a=7;
-
-
-
-return d
+print("to check the restore functionality")
+print("hello")
